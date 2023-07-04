@@ -1,1 +1,1 @@
-# card-game
+# webdev-card-game
