@@ -5,3 +5,4 @@ export function time(fullGameTime: number) {
         sec.length < 2 ? '0' + sec : sec
     }`;
 }
+;
